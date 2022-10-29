@@ -1,0 +1,19 @@
+OBJECTIVE:
+
+Implement a git like client system with limited capabilities. The program should be able
+  • to create/initialize a git repository, creating a .git folder with the necessary details.
+  • to add files to index and commit, maintaining the commit-ids so that retrieving them
+    back could be done.
+  • to see the status, diff, checkout previous commits, as shown by the git utility.
+  
+Commands to be Implemented
+1. init
+2. add
+3. status
+4. commit
+5. rollback
+6. checkout
+7. diff
+8. log
+9. push
+10. pull
